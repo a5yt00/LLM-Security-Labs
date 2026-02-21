@@ -100,12 +100,10 @@ LLM-Security-Labs/
 ├── 🐍 lab_app.py                 # Streamlit frontend (7 labs)
 ├── 📓 backend_lab.ipynb          # Colab GPU backend notebook
 ├── 📦 requirements.txt           # Python dependencies
-│
-└── 📂 LLM_Security_Labs/
-    ├── 📖 LAB_MANUAL.md          # Detailed lab guide & attack reference
-    ├── 📓 backend_lab.ipynb      # Backend notebook (copy)
-    ├── 🐍 lab_app.py             # Frontend (copy)
-    └── 📦 requirements.txt       # Dependencies
+├── 📖 LAB_MANUAL.md              # Detailed lab guide & attack reference
+├── 📚 LLMAll_en-US_FINAL.pdf     # OWASP LLM reference document
+├── 📝 Building LLM Security Labs and Tools.txt
+└── 🚫 .gitignore
 ```
 
 ---
